@@ -1,45 +1,122 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Impactful Underdog]]></title><description><![CDATA[Mehdi Karamnejad's personal blog on software engineering, startups, and entrepreneurship]]></description><link>https://blog.mehdi.tech</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 04 Feb 2020 04:50:04 GMT</lastBuildDate><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://blog.mehdi.tech/hello-world/</link><guid isPermaLink="false">https://blog.mehdi.tech/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
-&lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
-&lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
-&lt;a href=&quot;http://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;A salted duck egg is a Chinese preserved food product made by soaking duck
-eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-charcoal paste. The eggs may also be sold with the salted paste removed,
-wrapped in plastic, and vacuum packed. From the salt curing process, the
-salted duck eggs have a briny aroma, a gelatin-like egg white and a
-firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABgik0dXC//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEhEy/9oACAEBAAEFAkqW2DlnRj73yf/EABcRAQADAAAAAAAAAAAAAAAAAAAREkH/2gAIAQMBAT8B1WX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQL/2gAIAQIBAT8Bi6f/xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRISIxMv/aAAgBAQAGPwK9GNocyS8hCj//xAAbEAADAQADAQAAAAAAAAAAAAABESEAMUGBof/aAAgBAQABPyGxNMfrLHmCDZmAzzvJJDjEQCHv/9oADAMBAAIAAwAAABDIL//EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAgBAwEBPxARhylZv//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFR/9oACAECAQE/EFoktI//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAxIWFBcYHh/9oACAEBAAE/EEbMLQ0fMHDVaPIXyI4pk4JUnWacNCtO8ojDE9TGIYES7/Jn/9k=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Chinese Salty Egg&quot;
-        title=&quot;Chinese Salty Egg&quot;
-        src=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/1c72d/salty_egg.jpg&quot;
-        srcset=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/a80bd/salty_egg.jpg 148w,
-/static/8058f3f26913fea3b6a89a73344fe94a/1c91a/salty_egg.jpg 295w,
-/static/8058f3f26913fea3b6a89a73344fe94a/1c72d/salty_egg.jpg 590w,
-/static/8058f3f26913fea3b6a89a73344fe94a/a8a14/salty_egg.jpg 885w,
-/static/8058f3f26913fea3b6a89a73344fe94a/fbd2c/salty_egg.jpg 1180w,
-/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg 2048w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Impactful Underdog]]></title><description><![CDATA[Mehdi Karamnejad's personal blog on software engineering, startups, and entrepreneurship]]></description><link>https://blog.mehdi.tech</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 04 Feb 2020 05:08:55 GMT</lastBuildDate><item><title><![CDATA[Tech Startup Maturity Levels]]></title><description><![CDATA[A SaaS software company is formed to mainly build solutions that a target market has demand for. For a tech company to be 
+generally…]]></description><link>https://blog.mehdi.tech/startup-maturity-levels/</link><guid isPermaLink="false">https://blog.mehdi.tech/startup-maturity-levels/</guid><pubDate>Tue, 04 Feb 2020 05:00:00 GMT</pubDate><content:encoded>&lt;p&gt;A SaaS software company is formed to mainly build solutions that a target market has demand for. For a tech company to be
+generally successful at what they do, they need to build their software solution in a way that: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It continuously delivers value to the end users with best user experience possible.&lt;/li&gt;
+&lt;li&gt;It has high quality and it’s well-engineered.&lt;/li&gt;
+&lt;li&gt;It’s scalable, maintainable, and future friendly as much as possible.&lt;/li&gt;
+&lt;li&gt;It continuously minimizes time and financial costs during software delivery to increase profitability.&lt;/li&gt;
+&lt;li&gt;It continuously drives innovation to be relevant in the ever-changing tech scene.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In reality, tech companies are in the constant battle of time, resources, and deliverables. The product management
+team along with tech leadership decides what needs to be done to achieve aforementioned goals. Companies at different
+levels of maturity need to be equipped with right technologies and processes to be considered high performing. &lt;/p&gt;
+&lt;p&gt;Here is the checklist for every level of maturity of any tech company. The higher level a tech company is on this scale,
+the more it’s considered a high performing tech organization.&lt;/p&gt;
+&lt;h2&gt;Level 1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Use a software development methodology that works for your team.&lt;/li&gt;
+&lt;li&gt;Structured goal setting is in place: Using a systematic way of setting goals that drives what is built by developers.
+This brings alignment to all functions of an organization and helps everyone have focus and ensure individual
+contributors are working on the right thing. Let’s face it, building and shipping software is very expensive! therefore,
+building the wrong products or features can really hurt a tech company. &lt;a href=&quot;https://www.goodreads.com/book/show/39286958-measure-what-matters&quot;&gt;OKRs&lt;/a&gt;
+are a very handy tool for structured goal setting.&lt;/li&gt;
+&lt;li&gt;Extreme ownership in the engineering team: once developers are code complete, they are not done! They are trained to
+have this mindset that they are done once what they are working on is in production creating value for end-users.&lt;/li&gt;
+&lt;li&gt;Continuous negotiation with the product team: There is a constant line
+of communication open between engineers and product managers to bring down the feature scope/complexity while not
+drastically minimize the value delivered to the user. The result of this practice is to save time and development costs
+while still delivering great customer experience.  &lt;/li&gt;
+&lt;li&gt;Using an issue &amp;#x26; project tracking software system: Platforms such as Jira enable you to implement the software
+development methodology you are using and ensure any engineering work is being tracked through the entire development
+lifecycle.    &lt;/li&gt;
+&lt;li&gt;Using version control systems, proper branching and code merging model that works for your team resulting in fast code
+integration.&lt;/li&gt;
+&lt;li&gt;Using an effective communication mechanism such as Slack.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Developers can reproduce bugs and test everything in their development environments.&lt;/p&gt;
+&lt;h2&gt;Level 2&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;Everything mentioned in level 1 is practiced.&lt;/li&gt;
+&lt;li&gt;A prioritization model is in place: the engineering team is always working on what matters the most. &lt;a href=&quot;https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/&quot;&gt;RICE&lt;/a&gt;
+is a very effective prioritization model. Also, product team always ensures engineers do not run out of high priority
+work.&lt;/li&gt;
+&lt;li&gt;Engineers understand the big picture: technical individual contributors can sometimes get into too much implementation
+detail of what they are working on. This results in them losing touch with the big picture and the overall intended value
+being delivered. To help with this, we always want to ensure engineers follow the “working backwards” method. i.e. always
+asking ourselves “imagine we are done and this feature is live! How would the user use the output of this work and is it
+creating the value the user is looking for?”&lt;/li&gt;
+&lt;li&gt;Processes are defined in a way that people are not blocked on each other as much as feasible. Leaders are very
+attentive to the the word “blocked”, strive to resolve the situation immediately and place processes in place to minimize
+the amount of blockage occurring from the same root cause.&lt;/li&gt;
+&lt;li&gt;Genuine care for developer happiness: ensure developers are heard, they are appreciated, their concerns are addressed,
+and there is a clear career growth plan laid out for them by retrospective and 1-on-1 meetings. &lt;/li&gt;
+&lt;li&gt;Engineers get architectural design buy-in before implementation: engineers talk to as many colleagues as they can about
+how they are going to address a problem before actual implementation. This is to ensure the solution is the most optimal
+and follows the best engineering practices.&lt;/li&gt;
+&lt;li&gt;Having a systematic way of communicating internally and external regarding what is going to be built long term and
+short term.&lt;/li&gt;
+&lt;li&gt;Application environments are isolated: Modern software systems can consist of many different services. Any instance of
+any service running in an environment should be completely isolated from services running on a different environment
+(having a test, staging, and a production environment is very common).&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Log application output and and expose them to the team: engineers need to have access to application logs for
+debugging purposes. Ideally, logs for all the environments are available through a logging aggregator. &lt;/p&gt;
+&lt;h2&gt;Level 3&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;Everything mentioned in level 2 is practiced.&lt;/li&gt;
+&lt;li&gt;Unify design systems: When building new features, engineers at don’t have to think about how the general UI elements
+look like as they use a repository commonly called style guide. &lt;/li&gt;
+&lt;li&gt;Educate engineers to be product-oriented: Engineers building out features are trained to have a passion for the product
+as a whole. This helps them make better decisions during development and make the right comprises.&lt;/li&gt;
+&lt;li&gt;Build out technology radar: Clearly communicate what tools, frameworks, and languages will be used in the org.
+&lt;a href=&quot;https://www.thoughtworks.com/radar&quot;&gt;Tech Radar&lt;/a&gt; can be a handy tool regarding this matter. This allows a cohesive
+development strategy and more code reusability resulting in faster product delivery. &lt;/li&gt;
+&lt;li&gt;Develop with SEO in mind: effective tech organizations do not let SEO be afterthought. They are always up-to-date with
+the latest SEO trends and ensure engineers follow them during feature development.  &lt;/li&gt;
+&lt;li&gt;Develop with mobile-first mind set: where applicable, all the experiences delivered to the user are mobile-friendly.&lt;/li&gt;
+&lt;li&gt;Know your users: start gathering data on how users are using your software while respecting their privacy.&lt;/li&gt;
+&lt;li&gt;Feature toggle strategy is in place: there is a way to incrementally and continuously release new features to
+customers. &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Zero downtime deployments: when production deployments take place, there is no downtime for current users.&lt;/p&gt;
+&lt;h2&gt;Level 4&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;Everything mentioned in level 3 is practiced.&lt;/li&gt;
+&lt;li&gt;Maximize code reusability: for all the back-end, front-end, and infrastructure code there is a strategy in
+place to maximize code reusability across projects.  &lt;/li&gt;
+&lt;li&gt;Systematic documentation in place: there is a consistent way of documenting any transferable knowledge across the tech
+organization. The company culture entices engineers to keep the documentation updated as things change.&lt;/li&gt;
+&lt;li&gt;Constantly asking and addressing this question: are we automating anything that can be automated?&lt;/li&gt;
+&lt;li&gt;Have a systematic way to handle escalations when the software is not working as expected in the production environment
+and close the loop with support and non-tech stake holders when issues are scheduled to be addressed. &lt;/li&gt;
+&lt;li&gt;Document production issues caused by human error as post-mortems. This is a mechanism to continuously improve the tech
+organization.&lt;/li&gt;
+&lt;li&gt;There is a systematic way of training and onboarding in place for new hires. There is also protocol in place to
+knowledge transfer and revoke access rights when people decide to leave the company. Services and tools are registered
+using a company identity (e.g. email) and not a specific person’s identity. &lt;/li&gt;
+&lt;li&gt;There is a structure in place for engineers to grow in their career.&lt;/li&gt;
+&lt;li&gt;Unit tests, integration tests, and end-to-end tests are in place as much as possible to ensure quality and
+maintainability.&lt;/li&gt;
+&lt;li&gt;Common data exposure mechanism: if microservices are being used in the tech infrastructure, there is a strategy in
+place to expose all the data endpoints using the same consistent mechanism as much as possible (e.g. consistently use
+GraphQL or RESTful APIs).&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CI/CD: there is a clear operational strategy for continuous integration and continuous delivery of the software.&lt;/p&gt;
+&lt;h2&gt;Level 5&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;Everything mentioned in level 4 is practiced.&lt;/li&gt;
+&lt;li&gt;Train everyone to be a leader! As the organization grows, it’s crucial to build leadership skills in as many people as
+possible. This sense of ownership helps the company to succeed in the long run.&lt;/li&gt;
+&lt;li&gt;Monitoring performance and find what’s slowing down the system on both the front-end(e.g. using Lighthouse) and the
+back-end(e.g. using APMs). Monitoring service health to be proactive instead of reactive when problems arise
+(i.e. strategy in place to find issues before users find them). There should also be load testing involved as part of
+the monitoring system. &lt;/li&gt;
+&lt;li&gt;Having a systematic way to monitor security and develop with security in mind.&lt;/li&gt;
+&lt;li&gt;Engineers and leaders consider the financial cost of any third party service vs ROI and scalability when choosing a
+technology to use. &lt;/li&gt;
+&lt;li&gt;If the organization is involved in building software systems that include different levels of users, there needs to be
+a system in place to let users know, who did what action at what time (i.e. have user activity tracking system in place)&lt;/li&gt;
+&lt;li&gt;A/B testing strategy in place: there is a way for the product team to deliver different experiences to different users
+where applicable. This is to learn more about what users want, what works for the product, and continuously build the right features.  &lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item></channel></rss>
