@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Mehdi Karamnejad`,
+    title: `Impactful Underdog`,
     author: `Mehdi Karamnejad`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Mehdi Karamnejad's personal blog on software engineering, startups, and entrepreneurship`,
+    siteUrl: `https://blog.mehdi.tech/`,
     social: {
       twitter: `mehdi_io`,
     },
@@ -57,13 +57,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Impactful Underdog`,
+        short_name: `Impactful Underdog`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/shirdal-icon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
