@@ -1,4 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Impactful Underdog]]></title><description><![CDATA[Mehdi Karamnejad's personal blog on software engineering, startups, and entrepreneurship]]></description><link>https://blog.mehdi.tech</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 14 Feb 2020 07:15:02 GMT</lastBuildDate><item><title><![CDATA[Tech Startup Maturity Levels]]></title><description><![CDATA[A SaaS software company is formed to mainly build solutions that a target market has demand for. For a tech company to be 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Impactful Underdog]]></title><description><![CDATA[Mehdi Karamnejad's personal blog on software engineering, startups, and entrepreneurship]]></description><link>https://blog.mehdi.tech</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 19 Feb 2020 06:52:03 GMT</lastBuildDate><item><title><![CDATA[Evaluating Software Engineers]]></title><description><![CDATA[Over the past few years, I had the pleasure of working with many software engineers in different capacities. Here is 
+the list I came up…]]></description><link>https://blog.mehdi.tech/evaluating-software-engineers/</link><guid isPermaLink="false">https://blog.mehdi.tech/evaluating-software-engineers/</guid><pubDate>Wed, 19 Feb 2020 06:30:00 GMT</pubDate><content:encoded>&lt;p&gt;Over the past few years, I had the pleasure of working with many software engineers in different capacities. Here is
+the list I came up with to use as the reference to give feedback to software engineers. The main purpose is to ensure
+most of the aspects are covered so that team members grow, the team is high-performing, and the company is moving towards
+its vision. The skills are divided into categories so that each category can be evaluated in details.&lt;/p&gt;
+&lt;p&gt;I will be updating this list as I learn more in my leadership journey.&lt;/p&gt;
+&lt;h2&gt;Technical ability&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Constantly learning new approaches to make our life easier (books, tools, libraries, new language features, etc..)&lt;/li&gt;
+&lt;li&gt;Bring a new perspective to the codebase. Use design patterns if necessary or new algorithmic approaches to find the things that we are not doing optimally and improve them.&lt;/li&gt;
+&lt;li&gt;Develop confidence and technical ability to architect and develop a feature from A to Z using the best practices.&lt;/li&gt;
+&lt;li&gt;Use the broken window theory to constantly improve the codebase.&lt;/li&gt;
+&lt;li&gt;Improve code delivery time.&lt;/li&gt;
+&lt;li&gt;Improve the quality of  delivered code (how performant is your code? Also, high code coverage in unit tests. To sum up, how often we have to do an emergency code fix at 11 PM?)&lt;/li&gt;
+&lt;li&gt;Improve the quality of code reviewing other developers’ work. Basically, from 3 perspectives: 1) is this PR a good approach as a whole? 2) Are all the language features being used properly? 3) are all the code statements doing what the developer intended?&lt;/li&gt;
+&lt;li&gt;Attention to details! Because the difference between good and great is details (i.e. what’s the ratio that you get things right on the first iteration).&lt;/li&gt;
+&lt;li&gt;How often are you finding issues in the codebase in order to find/fix bugs or improve performance.&lt;/li&gt;
+&lt;li&gt;Unblocking and context switching abilities: How do you find a way to unblock yourself if your task is dependant on another task. If you are absolutely blocked on a task how well do you context switch to doing other tasks or addressing technical debts?&lt;/li&gt;
+&lt;li&gt;Identify things that are costing the company substantially and provide alternative cost-effective solutions&lt;/li&gt;
+&lt;li&gt;Constantly reducing current complexity. Additionally, come up with the least complex approaches to solve problems.&lt;/li&gt;
+&lt;li&gt;Software delivery creativity&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ability to work and negotiate with the product team to bring down the scope and reduce time-to-market while minimally reducing the value delivered to the customer (i.e. ability to compromise part of requirements and descope them from the deliverables)
+Product awareness: when developing features, do you take the time needed to evaluate and consider the potential side effects to other features and count them into your design and development?&lt;/p&gt;
+&lt;h2&gt;Focus on customer and company&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;The person is constantly aligned with the core business goals and strive to put most of their technical effort into realizing major company goals&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Has a clear focus and knowledge on what he does has a direct impact on customers and strive to embrace a customer-obsessed culture&lt;/p&gt;
+&lt;h2&gt;Initiative&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;If something needs to be done that improves the code base, fixes bugs, or brings business value, are you taking initiative to roll up sleeves and do it with no or minimal supervision?&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Are you helping your colleagues when they are having technical problems?&lt;/p&gt;
+&lt;h2&gt;Accountability &amp;#x26; ownership&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Do you take responsibility for things that go wrong and immediately try to fix them?&lt;/p&gt;
+&lt;h2&gt;Reliability&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;How well the tasks mentioned in the “technical ability” are being done with no or minimal supervision&lt;/li&gt;
+&lt;li&gt;Deliver software on time based on the estimate as much as possible&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Level of availability in times of a crisis &lt;/p&gt;
+&lt;h2&gt;Communication&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;Communicate with all the parties involved in a feature development so that after the feature is done no one is surprised&lt;/li&gt;
+&lt;li&gt;Communicate any potential problems that can affect deadlines internally (and externally if necessary). This communication should happen as soon as a hurdle is reached&lt;/li&gt;
+&lt;li&gt;Frequently communicate with the business to fully understand what value proposition we are trying to develop. Is there any intellectual property we are not monetizing? &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Communicate with the operations and business so we are always on top of their needs&lt;/p&gt;
+&lt;h2&gt;Interpersonal skills&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;Be ego-free&lt;/li&gt;
+&lt;li&gt;Be kind&lt;/li&gt;
+&lt;li&gt;Be fun to work with! &lt;/li&gt;
+&lt;li&gt;Be open to feedback&lt;/li&gt;
+&lt;li&gt;Being empathic towards peers at work and be mindful of their emotional/mental state&lt;/li&gt;
+&lt;li&gt;How well conflicts are handled&lt;/li&gt;
+&lt;li&gt;The approach you take to prove that what you believe is correct from a technical perspective? (i.e. data-driven decision making)&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Contribute to the culture so that not only you love working at the company but you attract other people to want to work at the company.&lt;/p&gt;
+&lt;h2&gt;Leadership&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;Help other people in the team to perform everything mentioned above better! &lt;/li&gt;
+&lt;li&gt;Improve development lifecycle processes so that others can work more efficiently &lt;/li&gt;
+&lt;li&gt;Morph into a personality that can inspire other colleagues and help them with their professional development&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The ability to mobilize developers and delegate work to fully develop a feature or set of features. This results in
+the team to be able to deliver deliverables on time in the most efficient frictionless manner&lt;/p&gt;
+&lt;h2&gt;Going above and beyond&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How often you make your colleagues say “Wow, that’s amazing, I did not expect that” in all of the items mentioned above.
+This means recognizing a company’s need outside the scope of your regular duties in order to assist the company to deliver
+better customer experience, improve processes significantly, and introduce fundamentally better technical approaches to
+the problems&lt;/p&gt;
+&lt;h2&gt;Innovate and contribute to value prop&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;Ability to utilize the engineering mindset to come up with creative ways to generate revenue or traction for the company&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Tech Startup Maturity Levels]]></title><description><![CDATA[A SaaS software company is formed to mainly build solutions that a target market has demand for. For a tech company to be 
 generally…]]></description><link>https://blog.mehdi.tech/startup-maturity-levels/</link><guid isPermaLink="false">https://blog.mehdi.tech/startup-maturity-levels/</guid><pubDate>Tue, 04 Feb 2020 05:00:00 GMT</pubDate><content:encoded>&lt;p&gt;A SaaS software company is formed to mainly build solutions that a target market has demand for. For a tech company to be
 generally successful at what they do, they need to build their software solution in a way that: &lt;/p&gt;
 &lt;ul&gt;
