@@ -25,15 +25,15 @@ relationships at work.
 ## Important elements of healthy confrontation
 ### Courage through awkwardness 
 Yes, it can get awkward and we have to acknowledge that. It’s hard to tell a principal engineer that their architectural
- design is introducing a huge performance issue or your manager is constantly micromanaging the team, or your colleague 
- comes to their desk and starts working right after a workout with a BO (true story!). The reality is people can not get
-  better and improve if they don’t know anything is wrong with what they are doing! You have to practice through this 
-  awkwardness on step at a time and you will get better! 
+design is introducing a huge performance issue or your manager is constantly micromanaging the team, or your colleague 
+comes to their desk and starts working right after a workout with a BO (true story!). The reality is people can not get
+better and improve if they don’t know anything is wrong with what they are doing! You have to practice through this 
+awkwardness one step at a time and you will get better! 
 ### Mutual benefits
 Confrontation should come from a place of caring deeply in your heart. It should genuinely be aimed to make the other 
 person flourish, improve your working relationship, and ultimately make the organization successful. You need to be ready
 to accept that you might actually be wrong! That’s another benefit of confrontation because you give the other person in
-the conversation a chance to explain themselves, maybe what you have been hypothesizing is incorrect and you should be
+the conversation a chance to explain themselves. Maybe what you have been hypothesizing is incorrect and you should be
 ready to accept the truth and explicitly tell the other party that they are right and you have made a mistake. You 
 should also be ready to meet the other party halfway;  maybe they agree with some of your arguments and disagree with 
 some of it. That’s still a win! 
@@ -69,10 +69,10 @@ Example 2: Confronting a colleague leaving passive-aggressive messages in public
 ### Aftermath
 Confrontation is something that you get better at by practice but you are not always going to sway another person's 
 opinion and that's just the world we live in. However, there are going to be a lot of cases where you are able to influence
- people and change minds and save the day! After a confrontation, you should always try to ensure that there are no hard
-  feeling between you and the person you confronted.
+people and change minds and save the day! After a confrontation, you should always try to ensure that there are no hard
+feeling between you and the person you confronted.
 
-Just like any other skill, the confrontation takes time and practice to master. Don’t confront the VP of the product on 
+Just like any other skill, confrontation takes time and practice to master. Don’t confront the VP of the product on 
 the Go-to-Market strategy on your first try! Start small with matters where stakes are not very high and work your way up.
 You can also start practicing outside of work (and please don’t be mean to the barista who misspelled your name!). 
 you know when you are ready! 
